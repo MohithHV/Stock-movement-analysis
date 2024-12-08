@@ -37,7 +37,7 @@ To run this project, you need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-movement-prediction.git
+   git clone https://github.com/MohithHV/Stock-movement-analysis.git
    cd stock-movement-prediction
    ```
 
